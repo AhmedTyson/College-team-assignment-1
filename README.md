@@ -1,14 +1,19 @@
-# College Team Assignment — 1
+# <img src="https://api.iconify.design/lucide:users-2.svg?color=%238A2BE2" width="32" height="32" align="center" /> Talabat Console Lab
 
-> A Python console-based food delivery simulator inspired by Talabat — demonstrating OOP principles through collaborative team development.
+> **A Python console-based food delivery simulator inspired by Talabat.**
+> Precision-built as a collegiate team project to demonstrate advanced OOP principles and order-flow logic.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-blueviolet?style=for-the-badge)
-![Team Project](https://img.shields.io/badge/Type-Team_Assignment-green?style=for-the-badge)
+<div align="center">
+
+| Project Status | Stack                                                                                                   | Paradigm   | Type                                                                                |
+| :------------- | :------------------------------------------------------------------------------------------------------ | :--------- | :---------------------------------------------------------------------------------- |
+| `STABLE`       | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) | `OOP Core` | ![Team Project](https://img.shields.io/badge/Type-Team_Lab-green?style=flat-square) |
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## <img src="https://api.iconify.design/lucide:list.svg?color=%238A2BE2" width="20" height="20" align="center" /> Table of Contents
 
 - [Overview](#overview)
 - [Features](#-features)
@@ -27,7 +32,9 @@ The project was built to practice version control collaboration and OOP design i
 
 ---
 
-## ✨ Features
+---
+
+## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238A2BE2" width="20" height="20" align="center" /> Features
 
 | Feature                 | Description                                                          |
 | ----------------------- | -------------------------------------------------------------------- |
@@ -42,7 +49,9 @@ The project was built to practice version control collaboration and OOP design i
 
 ---
 
-## 💻 Tech Stack
+---
+
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Stack
 
 | Layer            | Technology                  |
 | ---------------- | --------------------------- |
@@ -53,7 +62,9 @@ The project was built to practice version control collaboration and OOP design i
 
 ---
 
-## 🏗️ Architecture
+---
+
+## <img src="https://api.iconify.design/lucide:git-pull-request.svg?color=%238A2BE2" width="20" height="20" align="center" /> Architecture
 
 ```
 Talabat.py
@@ -67,7 +78,9 @@ Talabat.py
 
 ---
 
-## 🖥️ Usage Example
+---
+
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%238A2BE2" width="20" height="20" align="center" /> Usage Example
 
 ```
 Welcome To Talabat
@@ -109,7 +122,9 @@ Payment Summary:
 
 ---
 
-## 🚀 Getting Started
+---
+
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238A2BE2" width="20" height="20" align="center" /> Getting Started
 
 ### Prerequisites
 
